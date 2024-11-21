@@ -1,0 +1,46 @@
+CARD MEMORY GAME
+
+
+🃏 Overview
+
+-The Card Matching Game is a fun memory-based game where players flip over cards to find matching pairs. 
+-The goal is to match all pairs of cards with as few moves as possible. This project is built using HTML, CSS, and JavaScript.
+
+
+HOW TO play
+
+
+Click on a card to flip it over and reveal its icon.
+Flip a second card to find a match.
+If the cards match, they remain flipped; otherwise, they flip back.
+Match all the pairs to win the game.
+Use the Restart button to shuffle the cards and start over.
+
+
+TECHNOLOGIES USED
+
+HTML: Structure of the game board and buttons.
+CSS: Styling and layout, including animations and responsive design.
+JavaScript: Game logic, card shuffling, and event handling.
+
+
+
+
+📂 Project Structure
+
+Copy code
+card-matching-game/
+├── index.html       # Main HTML file
+├── style.css        # CSS for styling
+├── script.js        # JavaScript for game logic
+├── README.md        # Documentation
+
+Future Improvements
+
+Add a timer to track how quickly players can complete the game.
+Implement a score system based on the number of moves taken.
+Include sound effects for card flips and matches.
+Add a multiplayer mode for competitive gameplay.
+🧑‍💻 Contributing
+Contributions are welcome! If you want to improve the game or add new features:
+
